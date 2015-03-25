@@ -1,5 +1,6 @@
 # Tree-Data-Structures
 This repository is a compilation of various tree data structures and the methods needed to manipulate them.
+Some code was adapted from the 'Introduction to Algorithms, 3rd Edition' book.
 
 Included are the following trees:
 - Binary Tree
