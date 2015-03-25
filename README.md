@@ -15,4 +15,5 @@ Each includes the various methods that are used to manipulate the tree data stru
 - Delete
 - Search
 
-Each tree class will have a test included with it. If there are inconsistencies with the algorithms, I apologize and would love your remarks.
+Each tree class will have a test included with it. If there are inconsistencies with the algorithms, 
+I apologize and would love your remarks.
